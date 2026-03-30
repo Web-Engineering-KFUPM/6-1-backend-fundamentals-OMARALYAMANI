@@ -13,7 +13,7 @@ const app = express();
 app.use(cors());
 
 
-/*
+
 // TODO 5: Create the home route "/"
 app.get('/', (req, res) => {
   res.send('Hello from the back-end server');
@@ -35,7 +35,7 @@ app.get('/student', (req, res) => {
     major: 'Computer Science'
   });
 });
-*/
+
 
 
 // TODO 4: Start the server on port 3000
